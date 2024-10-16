@@ -1,7 +1,7 @@
-# 🩺 **Shuaishuai Chai** 
+#  **Shuaishuai Chai** 
 
-**Graduate Student | Radiologist**  
-Huadong Hospital, Shanghai  
+**Graduate Student | Radiologist⭐️**  
+Huadong Hospital, Shanghai 🩺 
 Fudan University Shanghai Medical College
 
 ---
@@ -13,8 +13,8 @@ Fudan University Shanghai Medical College
 ---
 
 ### 🔬 **Research Interests**
-- Object Detection 🕵️‍♂️：Utralytics、MaskRCNN...
-- Image Segmentation 🖼️:Unet、nnUNet...
+- Object Detection 🕵️‍♂️：Utralytics、MaskRCNN✨...
+- Image Segmentation 🖼️:Unet、nnUNet🎃...
 - Large Language Models (LLMs) 🤖：Chat-GPT、Llama🦙...
 
 ---
@@ -24,7 +24,7 @@ Fudan University Shanghai Medical College
 - **Programming Languages**: Python 🐍, R 📊
 - **Frameworks**: PyTorch 🔥
 - **Typesetting**: Markdown 📝
-- **Learning Platforms**: Zhihu 🔍
+- **Learning Platforms**: Zhihu 🔍、bilibili 🌟
 - **Publications**: Under review 📄
 - **Medical Image Processing**：3DSlicer、Itk-snap
 ---
