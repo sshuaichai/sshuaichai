@@ -15,7 +15,7 @@ Fudan University Shanghai Medical College
 ### 🔬 **Research Interests**
 - Object Detection 🕵️‍♂️：Utralytics、MaskRCNN...
 - Image Segmentation 🖼️:Unet、nnUNet...
-- Large Language Models (LLMs) 🤖：Chat-GPT、Llama...
+- Large Language Models (LLMs) 🤖：Chat-GPT、Llama🦙...
 
 ---
 
@@ -26,7 +26,7 @@ Fudan University Shanghai Medical College
 - **Typesetting**: Markdown 📝
 - **Learning Platforms**: Zhihu 🔍
 - **Publications**: Under review 📄
-
+- **Medical Image Processing**：3DSlicer、Itk-snap
 ---
 
 ### 🌟 **About Me**
@@ -56,5 +56,6 @@ Feel free to reach out for collaborations, discussions, or just to connect via e
 ### ✨ **Looking Forward**
 I’m excited to continue **exploring the possibilities** at the intersection of **cutting-edge technology** and **medical practice**, contributing to innovations in **medical imaging** and **AI**! 🚀
 
+🚴‍♂️🚴‍♂️🚴‍♂️
 
 <img src="https://github.com/user-attachments/assets/1e4f5491-25be-4dab-a021-cac6095afc4b" width="500" height="400" />
