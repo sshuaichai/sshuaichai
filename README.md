@@ -23,7 +23,7 @@ Fudan University Shanghai Medical College
 - **Languages**: Mandarin (Native) 🗣️, English (CET-4) 📘
 - **Programming Languages**: Python 🐍, R 📊
 - **Frameworks**: PyTorch 🔥
-- **Typesetting**: Markdown 📝, LaTeX 📚
+- **Typesetting**: Markdown 📝
 - **Learning Platforms**: Zhihu 🔍
 - **Publications**: Under review 📄
 
