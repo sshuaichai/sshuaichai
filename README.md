@@ -24,7 +24,7 @@ Fudan University Shanghai Medical College
 - **Programming Languages**: Python 🐍, R 📊
 - **Frameworks**: PyTorch 🔥
 - **Typesetting**: Markdown 📝
-- **Learning Platforms**: Zhihu 🔍、bilibili 🌟
+- **Learning Platforms**: Zhihu 🔍、bilibili 🌟、 CSDN 🐵
 - **Publications**: Under review 📄
 - **Medical Image Processing**：3DSlicer、Itk-snap
 ---
