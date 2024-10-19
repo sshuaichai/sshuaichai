@@ -1,5 +1,7 @@
 #  **Shuaishuai Chai** 
 
+**![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sshuaichai&show_icons=true&theme=transparent&hide_rank=true)**
+
 **Graduate Student | Radiologist⭐️**  
 Huadong Hospital, Shanghai 🩺 
 Fudan University Shanghai Medical College
