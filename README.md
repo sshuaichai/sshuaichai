@@ -59,5 +59,3 @@ Feel free to reach out for collaborations, discussions, or just to connect via e
 I’m excited to continue **exploring the possibilities** at the intersection of **cutting-edge technology** and **medical practice**, contributing to innovations in **medical imaging** and **AI**! 🚀
 
 🚴‍♂️🚴‍♂️🚴‍♂️
-
-<img src="https://github.com/user-attachments/assets/1e4f5491-25be-4dab-a021-cac6095afc4b" width="500" height="400" />
