@@ -44,11 +44,6 @@ I'm currently diving deep into the integration of **artificial intelligence** in
 
 ---
 
-### 🚴 **Personal Interests**
-When I'm not working on research or medical diagnostics, you can find me **cycling** 🚴 around the city, exploring **gourmet food** 🍣, or simply enjoying a **laid-back lifestyle** 🌱. I believe in balancing life and learning to stay both productive and inspired.
-
----
-
 ### 📧 **Let’s Connect**
 Feel free to reach out for collaborations, discussions, or just to connect via email:  
 📩 **sshuaichai@163.com**
@@ -56,6 +51,5 @@ Feel free to reach out for collaborations, discussions, or just to connect via e
 ---
 
 ### ✨ **Looking Forward**
-I’m excited to continue **exploring the possibilities** at the intersection of **cutting-edge technology** and **medical practice**, contributing to innovations in **medical imaging** and **AI**! 🚀
+I’m excited to continue **exploring the possibilities** at the intersection of **cutting-edge technology** and **medical practice**, contributing to innovations in **medical imaging** and **AI**! 🚀🚀🚀
 
-🚴‍♂️🚴‍♂️🚴‍♂️
