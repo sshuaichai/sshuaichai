@@ -40,7 +40,7 @@ I’m also **exploring large language models (LLMs)** and how they can enhance t
 ---
 
 ### 🛠️ **Current Focus**
-I'm currently diving deep into the integration of **artificial intelligence** in medical practice, focusing on how **LLMs** can improve **semantic segmentation** and **object detection** in clinical settings.
+I'm currently diving deep into the integration of **artificial intelligence** in medical practice, focusing on how **LLMs** 、**semantic segmentation** and **object detection** in clinical settings.
 
 ---
 
