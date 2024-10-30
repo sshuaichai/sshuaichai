@@ -2,7 +2,7 @@
 
 **![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sshuaichai&show_icons=true&theme=transparent&hide_rank=true)**
 
-**Graduate Student | Radiologist⭐️**  
+**Graduate Student | Radiologist ⭐️**  
 Huadong Hospital, Shanghai 🩺 
 Fudan University Shanghai Medical College
 
@@ -25,7 +25,7 @@ Fudan University Shanghai Medical College
 - **Languages**: Chinese (Native) 🗣️, English (CET-4) 📘
 - **Programming Languages**: Python 🐍 
 - **Frameworks**: PyTorch 🔥
-- **Typesetting**: Markdown 📝
+- **Typesetting**: Markdown 📝 
 - **Learning Platforms**: Papers With Code 🌟、 Github🌟、 Zhihu 🔍、bilibili 🌟、 CSDN 🐵
 - **Publications**: Under review 📄
 - **Medical Image Processing**：3DSlicer、Itk-snap
