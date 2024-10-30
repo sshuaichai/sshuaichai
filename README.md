@@ -33,7 +33,7 @@ Fudan University Shanghai Medical College
 
 ### 🌟 **About Me**
 
-I am currently a **radiologist** at **Huadong Hospital in Shanghai** and a graduate student at **Fudan University Shanghai Medical College**, specializing in **CT imaging**.
+I am currently a **radiologist** at **Huadong Hospital in Shanghai** and **a graduate student** at **Fudan University Shanghai Medical College**, specializing in **CT imaging**.
 
 ---
 
