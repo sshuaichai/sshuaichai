@@ -35,12 +35,11 @@ Fudan University Shanghai Medical College
 
 I am currently a **radiologist** at **Huadong Hospital in Shanghai** and a graduate student at **Fudan University Shanghai Medical College**, specializing in **CT imaging**. With a deep passion for the intersection of **medicine** and **computer vision**, I am focused on **image segmentation** and **object detection**. 
 
-I’m also **exploring large language models (LLMs)** and how they can enhance the accuracy of **medical image analysis**.
-
 ---
 
 ### 🛠️ **Current Focus**
-I'm currently diving deep into the integration of **artificial intelligence** in medical practice, focusing on how **LLMs** 、**semantic segmentation** and **object detection** in clinical settings.
+
+I'm studying a series of articles on **Transformers**...
 
 ---
 
