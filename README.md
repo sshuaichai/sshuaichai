@@ -12,7 +12,7 @@ Fudan University Shanghai Medical College
 - **2023.09 - Present**: Master’s in Radiology, Fudan University Shanghai Medical College
 - **2018.09 - 2023.06**:  Bachelor’s in Bengbu Medical College
 - **Learning Platforms**: Papers With Code 🌟、 Github🌟、 Zhihu 🔍、Bilibili 🌟、 CSDN 🐵
-- **Research Direction**： Machine Learning , Radiology 
+- **Research Direction**： AI , Radiology 
 ---
 
 ### 🔬 **Research Interests**
