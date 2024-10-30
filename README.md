@@ -11,7 +11,8 @@ Fudan University Shanghai Medical College
 ### 🎓 **Education**
 - **2023.09 - Present**: Master’s in Radiology, Fudan University Shanghai Medical College
 - **2018.09 - 2023.06**:  Bachelor’s in Bengbu Medical College
-
+- **Learning Platforms**: Papers With Code 🌟、 Github🌟、 Zhihu 🔍、Bilibili 🌟、 CSDN 🐵
+- **Research Direction**： Machine Learning , Radiology 
 ---
 
 ### 🔬 **Research Interests**
@@ -26,7 +27,6 @@ Fudan University Shanghai Medical College
 - **Programming Languages**: Python 🐍 
 - **Frameworks**: PyTorch 🔥
 - **Typesetting**: Markdown 📝 
-- **Learning Platforms**: Papers With Code 🌟、 Github🌟、 Zhihu 🔍、Bilibili 🌟、 CSDN 🐵
 - **Publications**: Under review 📄
 - **Medical Image Processing**：3DSlicer、Itk-snap
 ---
