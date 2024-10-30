@@ -11,15 +11,15 @@ Fudan University Shanghai Medical College
 ### 🎓 **Education**
 - **2023.09 - Present**: Master’s in Radiology, Fudan University Shanghai Medical College
 - **2018.09 - 2023.06**:  Bachelor’s in Bengbu Medical College
-- **Learning Platforms**: Papers With Code 🌟、 Github🌟、 Zhihu 🔍、Bilibili 🌟、 CSDN 🐵
+- **Learning Platforms**: Papers With Code 🌟， Github🌟， Zhihu 🔍， Bilibili 🌟， CSDN 🐵
 - **Research Direction**： AI , Radiology 
 ---
 
 ### 🔬 **Research Interests**
 - **Object Detection 🕵️‍♂️**：Utralytics（YOLOv5/8/11）、MaskRCNN ✨...
 - **Medical Image Segmentation 🖼️**:Unet 、nnUNet 🎃、SAM...
-- **Natural Language Processing (NLP) 🤖**：BERT 、GPT、 Llama 🦙...
-- **Transformers （Hf 🤗）🔥**： ViT 、 DETR ...
+- **Natural Language Processing (NLP) 🤖**：BERT ， GPT ，Llama 🦙...
+- **Transformers （Hf 🤗）🔥**： ViT ， DETR ...
 ---
 
 ### 💻 **Skills**
@@ -28,7 +28,7 @@ Fudan University Shanghai Medical College
 - **Frameworks**: PyTorch 🔥
 - **Typesetting**: Markdown 📝 
 - **Publications**: Under review 📄
-- **Medical Image Processing**：3DSlicer、Itk-snap
+- **Medical Image Processing**：3DSlicer ， Itk-snap
 ---
 
 ### 🌟 **About Me**
