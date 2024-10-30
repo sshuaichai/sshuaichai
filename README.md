@@ -15,18 +15,18 @@ Fudan University Shanghai Medical College
 ---
 
 ### 🔬 **Research Interests**
-- Object Detection 🕵️‍♂️：Utralytics（YOLO、RT-DETR）、MaskRCNN✨...
-- Image Segmentation 🖼️:Unet、nnUNet🎃、SAM...
-- Large Language Models (LLMs) 🤖：Chat-GPT、Llama🦙...
-
+- **Object Detection 🕵️‍♂️**：Utralytics（YOLO、RT-DETR）、MaskRCNN ✨...
+- **Medical Image Segmentation 🖼️**:Unet 、nnUNet 🎃、SAM...
+- **Natural Language Processing (NLP) 🤖**：BERT 、GPT、 Llama 🦙...
+- **Transformers （Hf 🤗）🔥**： ViT 、 DETR ...
 ---
 
 ### 💻 **Skills**
 - **Languages**: Chinese (Native) 🗣️, English (CET-4) 📘
-- **Programming Languages**: Python 🐍, R 📊
+- **Programming Languages**: Python 🐍 
 - **Frameworks**: PyTorch 🔥
 - **Typesetting**: Markdown 📝
-- **Learning Platforms**: Papers With Code ☆、 Zhihu 🔍、bilibili 🌟、 CSDN 🐵
+- **Learning Platforms**: Papers With Code 🌟、 Github🌟、 Zhihu 🔍、bilibili 🌟、 CSDN 🐵
 - **Publications**: Under review 📄
 - **Medical Image Processing**：3DSlicer、Itk-snap
 ---
