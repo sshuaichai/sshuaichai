@@ -2,19 +2,6 @@
 
 **![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sshuaichai&show_icons=true&theme=transparent&hide_rank=true)**
 
-**Graduate Student | Radiologist ⭐️**  
-Huadong Hospital, Shanghai 🩺 
-Fudan University Shanghai Medical College
-
----
-
-### 🎓 **Education**
-- **2023.09 - Present**: Master’s in Radiology, Fudan University Shanghai Medical College.
-- **2018.09 - 2023.06**: Bachelor’s in Bengbu Medical College.
-- **Learning Platforms**: Papers With Code 🌟， Github🌟， Zhihu 🔍， Bilibili 🌟， CSDN 🐵.
-- **Research Direction**: AI , Radiology.
----
-
 ### 🔬 **Research Interests**
 - **Object Detection 🕵️‍♂️**：Utralytics（YOLOv5/8/11) , MaskRCNN ✨ ...
 - **Medical Image Segmentation 🖼️**: Unet ， nnUNet 🎃 ， SAM ...
