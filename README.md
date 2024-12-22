@@ -5,29 +5,13 @@
 ### 🔬 **Research Interests**
 - **Object Detection 🕵️‍♂️**：Utralytics（YOLOv5/8/11) , MaskRCNN ✨ ...
 - **Medical Image Segmentation 🖼️**: Unet ， nnUNet 🎃 ， SAM ...
-- **Natural Language Processing (NLP) 🤖**: BERT ， GPT ，Llama 🦙 ...
-- **Transformers （Hf 🤗）🔥**: ViT ， DETR  ...
+- **Natural Language Processing (NLP) 🤖**: Llama 🦙 ...
+- **Transformers （Hf 🤗）🔥**:  DETR  ...
 ---
 
 ### 💻 **Skills**
-- **Languages**: Chinese (Native) 🗣️, English (CET-4) 📘.
 - **Programming Languages**: Python 🐍. 
 - **Frameworks**: PyTorch 🔥.
-- **Typesetting**: Markdown 📝.
-- **Publications**: Under review 📄.
-- **Medical Image Processing**：3DSlicer ， Itk-snap.
----
-
-### 🌟 **About Me**
-
-I am currently a **radiologist** at **Huadong Hospital in Shanghai** and **a graduate student** at **Fudan University Shanghai Medical College**, specializing in **CT imaging**.
-
----
-
-### 🛠️ **Current Focus**
-
-I'm studying a series of articles on **Transformers**...
-
 ---
 
 ### 📧 **Let’s Connect**
