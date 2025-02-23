@@ -3,13 +3,13 @@
 **![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sshuaichai&show_icons=true&theme=transparent&hide_rank=true)**
 
 ### 🔬 **Research Interests**
-- **Object Detection 🕵️‍♂️**：Utralytics（YOLOv5/8/11) , MaskRCNN ✨ ...
+- **Object Detection 🕵️‍♂️**：Utralytics（YOLOv5/8/11) , MaskRCNN ✨,YOLOv12 ...
 - **Medical Image Segmentation 🖼️**: Unet ， nnUNet 🎃 ， SAM ...
 - **Transformers （Hf 🤗）🔥**:  DETR  ...
 ---
 
 ### 💻 **Skills**
-- **Programming Languages**: Python 🐍. 
+- **Programming Languages**: Python 🐍, Vstudio 🆚. 
 - **Frameworks**: PyTorch 🔥.
 ---
 
