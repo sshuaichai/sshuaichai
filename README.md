@@ -1,24 +1,26 @@
-#  **Shuaishuai Chai** 
+#  **Shuaishuai Chai** 🚀  
 
-**![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sshuaichai&show_icons=true&theme=transparent&hide_rank=true)**
+**![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sshuaichai&show_icons=true&theme=transparent&hide_rank=true)**  
 
-### 🔬 **Research Interests**
-- **Object Detection 🕵️‍♂️**：Utralytics（YOLOv5/8/11) , MaskRCNN ✨,YOLOv12 ...
-- **Medical Image Segmentation 🖼️**: Unet ， nnUNet 🎃 ， SAM ...
-- **Transformers （Hf 🤗）🔥**:  DETR  ...
----
-
-### 💻 **Skills**
-- **Programming Languages**: Python 🐍, Vstudio 🆚. 
-- **Frameworks**: PyTorch 🔥.
----
-
-### 📧 **Let’s Connect**
-Feel free to reach out for collaborations, discussions, or just to connect via email:  
-📩 **sshuaichai@163.com**
+## 🔬 **Research Interests**  
+- 🕵️‍♂️ **Object Detection**: YOLOv5/8/11, Mask R-CNN ✨, YOLOv12  
+- 🖼️ **Medical Image Segmentation**: nnUNet 🎃, UNet 🧩, SAM 🎯, SwinUNETR, VNet (VAE), SegResNet  
+- 🤗 **Transformers**: DETR 🔥  
 
 ---
 
-### ✨ **Looking Forward**
-I’m excited to continue **exploring the possibilities** at the intersection of **cutting-edge technology** and **medical practice**, contributing to innovations in **medical imaging** and **AI**! 🚀🚀🚀
+## 💻 **Skills**  
+- 🐍 **Languages**: Python, Visual Studio 🆚  
+- 🔥 **Frameworks**: PyTorch  
+
+---
+
+## 📧 **Contact**  
+📩 **sshuaichai@163.com** ✉️  23211280034@m.fudan.edu.cn 
+
+---
+
+## ✨ **Looking Forward**  
+🚀 Advancing **medical AI** with **deep learning & computer vision**!  
+
 
