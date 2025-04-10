@@ -10,7 +10,7 @@
 ---
 
 ## 💻 **Skills**  
-- 🐍 **Languages**: Python, Visual Studio 🆚  
+- 🐍 **Languages**: Python, Visual Studio Code 
 - 🔥 **Frameworks**: PyTorch  
 
 ---
